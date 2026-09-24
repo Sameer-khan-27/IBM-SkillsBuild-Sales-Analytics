@@ -163,7 +163,7 @@ meta_table = doc.add_table(rows=2, cols=2)
 meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
 meta_table.autofit = False
 meta_data = [
-    [("Author", "Md Sameer Khan"), ("Email", "Kmdsameer993@gmail.com")],
+    [("Author", "Md Sameer Khan"), ("Email", "kmdsameer993@gmail.com")],
     [("Institution", "Maharaja Agrasen Institute of Technology (MAIT)"), ("Repository", "github.com/Sameer-khan-27/IBM-SkillsBuild-Sales-Analytics")]
 ]
 for row_idx, row in enumerate(meta_table.rows):
